@@ -1,1 +1,1 @@
-export * from './vendorModel';
+export * from './vendorDBModel';
